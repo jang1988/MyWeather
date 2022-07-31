@@ -1,5 +1,5 @@
 .weather {
-  padding-top: 178px;
+  padding-top: 78px;
 }
 
 .weather__container {
@@ -43,9 +43,9 @@
 }
 
 .weather-info {
-  padding-top: 218px;
-  padding-bottom: 122px;
+  padding-top: 100px;
   align-self: normal;
+
 }
 
 .weather-info__list {
@@ -54,7 +54,7 @@
   width: 100%;
   list-style-type: none;
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: space-between;
 }
 
